@@ -7247,27 +7247,27 @@ button.close {
     display: none !important; } }
 @font-face {
   font-family: sfdisplay;
-  src: url("/fonts/sanfranciscodisplay-regular.woff2"), url("/fonts/sanfranciscodisplay-regular.woff");
+  src: url("../fonts/sanfranciscodisplay-regular.woff2"), url("../fonts/sanfranciscodisplay-regular.woff");
   font-weight: 400; }
 @font-face {
   font-family: sfdisplay;
-  src: url("/fonts/sanfranciscodisplay-light.woff2"), url("/fonts/sanfranciscodisplay-light.woff");
+  src: url("../fonts/sanfranciscodisplay-light.woff2"), url("../fonts/sanfranciscodisplay-light.woff");
   font-weight: 300; }
 @font-face {
   font-family: sfdisplay;
-  src: url("/fonts/sanfranciscodisplay-bold.woff2"), url("/fonts/sanfranciscodisplay-bold.woff");
+  src: url("../fonts/sanfranciscodisplay-bold.woff2"), url("../fonts/sanfranciscodisplay-bold.woff");
   font-weight: 700; }
 @font-face {
   font-family: sftext;
-  src: url("/fonts/sanfranciscotext-regular.woff2"), url("/fonts/sanfranciscotext-regular.woff");
+  src: url("../fonts/sanfranciscotext-regular.woff2"), url("../fonts/sanfranciscotext-regular.woff");
   font-weight: 400; }
 @font-face {
   font-family: sftext;
-  src: url("/fonts/sanfranciscotext-light.woff2"), url("/fonts/sanfranciscotext-light.woff");
+  src: url("../fonts/sanfranciscotext-light.woff2"), url("../fonts/sanfranciscotext-light.woff");
   font-weight: 300; }
 @font-face {
   font-family: sftext;
-  src: url("/fonts/sanfranciscodisplay-bold.woff2"), url("/fonts/sanfranciscodisplay-bold.woff");
+  src: url("../fonts/sanfranciscodisplay-bold.woff2"), url("../fonts/sanfranciscodisplay-bold.woff");
   font-weight: 700; }
 /* line 48, /Users/sai/code/may/source/stylesheets/all.scss */
 body {
