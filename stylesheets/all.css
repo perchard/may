@@ -7379,11 +7379,11 @@ a, a:visited {
 
 /* line 181, /Users/sai/code/may/source/stylesheets/all.scss */
 .render-1 {
-  background: url("/images/render-1.jpg") no-repeat center; }
+  background: url("../images/render-1.jpg") no-repeat center; }
 
 /* line 185, /Users/sai/code/may/source/stylesheets/all.scss */
 .render-2 {
-  background: url("/images/render-2.jpg") no-repeat center; }
+  background: url("../images/render-2.jpg") no-repeat center; }
 
 /* line 189, /Users/sai/code/may/source/stylesheets/all.scss */
 .closing-cta {
