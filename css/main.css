@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "GT America";
+    src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
+         url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
+  }
+
+html, body {
+    padding: 0;
+    margin: 0;
+    font-family: "GT America", sans-serif;
+}
+
+#pt_container {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+    line-height: 0;
+    z-index: 1;
+}
+
+h1 {
+    font-size: 100px;
+    color: #FFFFFF;
+    z-index: 99;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: -10px;
+}
+
+h2 {
+    font-size: 50px;
+    color: #FFFFFF;
+    z-index: 99;
+    position: absolute;
+    top: 130px;
+    left: 50px;
+}
+
+#contact {
+    font-size: 20px;
+    color: #FFFFFF;
+    z-index: 99;
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+}
