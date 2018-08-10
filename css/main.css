@@ -1,8 +1,13 @@
 @font-face {
     font-family: "GT America";
-    src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
-         url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
-  }
+    src: url("/fonts/GT-America-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GT America";
+    font-weight: bold;
+    src: url("/fonts/GT-America-Bold.woff") format("woff");
+}
 
 html, body {
     padding: 0;
@@ -33,6 +38,7 @@ h1 {
 
 h2 {
     font-size: 50px;
+    font-weight: normal;
     color: #FFFFFF;
     z-index: 99;
     position: absolute;
